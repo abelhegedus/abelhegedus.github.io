@@ -1,3 +1,3 @@
 # Ábel Hegedüs
 
-Personal Github Pages site for Abel Hegedus
+Personal Github Pages site for Ábel Hegedüs
