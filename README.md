@@ -1,2 +1,3 @@
-# abelhegedus.github.io
+# Ábel Hegedüs
+
 Personal Github Pages site for Abel Hegedus
